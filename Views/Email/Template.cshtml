@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Byte Wave - Mensagem de Contato</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        header {
+            background: #ffffff;
+            color: #333;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 4px solid;
+        }
+
+        header a {
+            color: #333;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+
+        header ul {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            overflow: hidden;
+        }
+
+        header #branding {
+            float: left;
+        }
+
+        header #branding h1 {
+            margin: 0;
+        }
+
+        header #branding h1 a {
+            color: #333;
+            font-size: 20px;
+            text-decoration: none;
+        }
+
+        header a:hover {
+            color: #e8491d;
+        }
+
+        header #navigation {
+            float: right;
+            margin-top: 30px;
+        }
+
+        header .highlight, header .current a {
+            color: #e8491d;
+            font-weight: bold;
+        }
+
+        header a:hover {
+            color: #333;
+            font-weight: bold;
+        }
+
+        .main {
+            padding: 10px 0;
+        }
+
+        .main h1 {
+            color: #333;
+        }
+
+        .main p {
+            font-size: 18px;
+            line-height: 1.6em;
+            color: #666;
+        }
+
+        .main .main-content {
+            overflow: hidden;
+        }
+
+        .main .main-content .quote {
+            float: left;
+            width: 50%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .main .main-content .quote blockquote {
+            border-left: #e8491d 5px solid;
+            padding-left: 20px;
+        }
+
+        .main .main-content .quote cite {
+            display: block;
+            clear: left;
+            padding-top: 10px;
+            font-style: italic;
+            color: #666;
+        }
+
+        .main .main-content .contact {
+            float: left;
+            width: 50%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        footer {
+            padding: 20px 0;
+            background: #333;
+            color: #fff;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">Byte Wave</span> - Desenvolvimento de Software</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="#">Home</a></li>
+                    <li><a href="#">Produtos</a></li>
+                    <li><a href="#">Serviços</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container main">
+        <h1>Olá {model.Name},</h1>
+        <div class="main-content">
+            <div class="quote">
+                <blockquote>
+                    "Inovação e excelência em desenvolvimento de software para transformar sua visão em realidade."
+                </blockquote>
+                <cite>— Mizael Junior, Engenheiro de Software, Byte Wave</cite>
+            </div>
+            <div class="contact">
+                <h2>Detalhes do Contato:</h2>
+                <p><strong>Nome:</strong> {model.Name}</p>
+                <p><strong>E-mail:</strong> {model.Email}</p>
+                <p><strong>Mensagem:</strong> {model.Message}</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Byte Wave. Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>

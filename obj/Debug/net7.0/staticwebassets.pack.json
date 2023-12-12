@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/obj/Debug/net7.0/scopedcss/projectbundle/ByteWave.bundle.scp.css",
+      "PackagePath": "staticwebassets/ByteWave.bundle.scp.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/clients/client-1.png",
+      "PackagePath": "staticwebassets/img/clients/client-1.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/clients/client-2.png",
+      "PackagePath": "staticwebassets/img/clients/client-2.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/clients/client-3.png",
+      "PackagePath": "staticwebassets/img/clients/client-3.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/clients/client-4.png",
+      "PackagePath": "staticwebassets/img/clients/client-4.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/clients/client-5.png",
+      "PackagePath": "staticwebassets/img/clients/client-5.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/clients/client-6.png",
+      "PackagePath": "staticwebassets/img/clients/client-6.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/cta-bg.jpg",
+      "PackagePath": "staticwebassets/img/cta-bg.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/hero-img.png",
+      "PackagePath": "staticwebassets/img/hero-img.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-1.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-1.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-2.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-2.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-3.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-3.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-4.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-4.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-5.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-5.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-6.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-6.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-7.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-7.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-8.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-8.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-9.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-9.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-details-1.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-details-2.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/portfolio/portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-details-3.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/skills.png",
+      "PackagePath": "staticwebassets/img/skills.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/team/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team/team-1.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/team/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team/team-2.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/team/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team/team-3.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/team/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team/team-4.jpg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/img/why-us.png",
+      "PackagePath": "staticwebassets/img/why-us.png"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/scss/Readme.txt",
+      "PackagePath": "staticwebassets/scss/Readme.txt"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/aos/aos.cjs.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.cjs.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/aos/aos.css",
+      "PackagePath": "staticwebassets/vendor/aos/aos.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/aos/aos.esm.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.esm.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/aos/aos.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/aos/aos.js.map",
+      "PackagePath": "staticwebassets/vendor/aos/aos.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/css/animations.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/animations.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/css/boxicons.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/boxicons.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/css/boxicons.min.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/boxicons.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/css/transformations.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/transformations.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/fonts/boxicons.eot",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.eot"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/fonts/boxicons.svg",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.svg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/fonts/boxicons.ttf",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.ttf"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/fonts/boxicons.woff",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.woff"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/boxicons/fonts/boxicons.woff2",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.woff2"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/glightbox/css/plyr.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/plyr.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/glightbox/css/plyr.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/plyr.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/isotope-layout/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/vendor/isotope-layout/isotope.pkgd.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/isotope-layout/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/vendor/isotope-layout/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.css",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.eot",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.eot"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.glyph.json",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.glyph.json"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.less",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.less"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.svg",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.svg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.symbol.svg",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.symbol.svg"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.ttf",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.ttf"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.woff",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.woff"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/remixicon/remixicon.woff2",
+      "PackagePath": "staticwebassets/vendor/remixicon/remixicon.woff2"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "/home/mizaeljr/Documentos/ByteWave/wwwroot/vendor/waypoints/noframework.waypoints.js",
+      "PackagePath": "staticwebassets/vendor/waypoints/noframework.waypoints.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ByteWave.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ByteWave.props",
+      "PackagePath": "build\\ByteWave.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ByteWave.props",
+      "PackagePath": "buildMultiTargeting\\ByteWave.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ByteWave.props",
+      "PackagePath": "buildTransitive\\ByteWave.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

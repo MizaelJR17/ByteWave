@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mizaeljr/Documentos/ByteWave/ByteWave.csproj": {}
+  },
+  "projects": {
+    "/home/mizaeljr/Documentos/ByteWave/ByteWave.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mizaeljr/Documentos/ByteWave/ByteWave.csproj",
+        "projectName": "ByteWave",
+        "projectPath": "/home/mizaeljr/Documentos/ByteWave/ByteWave.csproj",
+        "packagesPath": "/home/mizaeljr/.nuget/packages/",
+        "outputPath": "/home/mizaeljr/Documentos/ByteWave/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mizaeljr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "RazorEngine": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
